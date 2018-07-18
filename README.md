@@ -1,0 +1,2 @@
+# lottery
+pick phoneNumber
